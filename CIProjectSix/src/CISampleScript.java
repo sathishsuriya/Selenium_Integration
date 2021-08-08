@@ -6,7 +6,7 @@ public class CISampleScript {
 		System.out.println("continous Devops");
 		System.out.println("selenium");
 		System.out.println("java");
-		System.out.println("ashwin");
+		
 	}
 
 }
